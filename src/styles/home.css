@@ -35,7 +35,8 @@
 
 .home-container .profile-img {
     width: 60%;
-    margin-left: 30%;
+    margin-left: 32%;
+    padding:0;
 }
 
 .home-container .profile-img img {

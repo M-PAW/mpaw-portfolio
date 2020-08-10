@@ -7,7 +7,7 @@ const Projects = () => {
         <div className="projects-container">
             <div>
                 <h2>Conway's Game of Life</h2>
-                (<a href={"https://friendly-wozniak-c97571.netlify.app/"} rel={"_blank"}> Live</a>)
+                (<a href={"https://friendly-wozniak-c97571.netlify.app/"} rel={"_blank"}>Live</a>)
 
                 <p><strong>Stack:</strong> React with hooks, JavaScript, React-Bootstrap, HTML and CSS</p>
             </div>

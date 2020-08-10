@@ -33,9 +33,9 @@ body {
 
 .content-wrapper {
   position: relative;
-  bottom: 4rem;
-  left: 12%;
-  width: 80%;
+ 
+  left: 3%;
+  width: 100%;
   padding: 2.5rem;
 }
 

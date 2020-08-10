@@ -23,13 +23,13 @@ const Education = () => {
                 </section>
             </div>
             <div>
-                <h2>Informal Education</h2>
+                <h3>Informal Education</h3>
                 <section>
                     <h5>Udemy</h5>
                 </section>
             </div>
             <div>
-                <h2>Code Challenges</h2>
+                <h3>Code Challenges</h3>
                 <section>
                     <h5>leetcode</h5>
                 </section>

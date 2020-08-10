@@ -9,6 +9,7 @@
     margin-left: 15%;;
     position: relative;
     text-align: center;
+    top: 7vh;
 }
 
 .projects-container a {
@@ -18,4 +19,5 @@
 
 .projects-container div {
     text-align: left;
+    
 }

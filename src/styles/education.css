@@ -9,20 +9,20 @@
 
 .education-container div {
     margin: 0 1rem 0 1rem;
+    width: 275px;
 }
 
 .education-container h3 {
-    font-size: 3vw;
+    font-size: 3.4vw;
     font-weight: bolder;
     text-decoration: underline;
 }
 
 .education-container h5 {
-    font-size: 2.2vw;
-    font-weight: bold;
+ 
     text-indent: 0.6rem;
 }
 
 .education-container p {
-    text-indent: 1.8rem;
+    text-indent: 1.9rem;
 }

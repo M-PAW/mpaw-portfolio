@@ -1,0 +1,21 @@
+
+.projects-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    width: 70%;
+    margin-left: 15%;;
+    position: relative;
+    text-align: center;
+}
+
+.projects-container a {
+    font-size: 1.1rem;
+    margin-left: auto;
+}
+
+.projects-container div {
+    text-align: left;
+}

@@ -4,20 +4,25 @@
     justify-content: space-evenly;
     flex-wrap: wrap;
     width: 100%;
+    top: 6rem;
+}
+
+.education-container div {
+    margin: 0 1rem 0 1rem;
 }
 
 .education-container h3 {
-    font-size: 1.6rem;
+    font-size: 3vw;
     font-weight: bolder;
     text-decoration: underline;
 }
 
 .education-container h5 {
-    font-size: 1.1rem;
+    font-size: 2.2vw;
     font-weight: bold;
-    text-indent: 0.8rem;
+    text-indent: 0.6rem;
 }
 
 .education-container p {
-    text-indent: 2.25rem;
+    text-indent: 1.8rem;
 }

@@ -1,5 +1,11 @@
 
 .social-container {
-    width: 50%;
-    margin-left: 25%;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.social-container div {
+    padding: 0 10px 15px 10px;
 }

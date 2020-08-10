@@ -1,11 +1,15 @@
 import React from 'react';
 
 import '../styles/home.css';
+import selfie from '../img1217.jpeg';
 
 const Home = () => {
     return (
         <div className="home-container">
           <div className="home-content">
+            <div className="profile-img">
+              <img src={selfie}/>
+            </div>
             <div>
               <h1>Michael Walter</h1>
             </div>

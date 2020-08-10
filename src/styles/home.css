@@ -8,6 +8,11 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    max-width: 80%;
+    /*min-width: 70%; */
+    display: flex;
+    margin-left: 10%;
+    margin-right: 20%;
 }
 
 .home-container h1 {
@@ -26,4 +31,17 @@
     text-indent: 1rem;
     width: 80%;
     margin-left: 10%;
+}
+
+.home-container .profile-img {
+    width: 60%;
+    margin-left: 30%;
+}
+
+.home-container .profile-img img {
+    max-width: 300px;
+    width: 60%;
+    padding-bottom: 35px;
+    border-radius: 180px;
+    filter: drop-shadow(0px 15px 16px white);
 }

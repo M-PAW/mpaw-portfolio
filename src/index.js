@@ -10,11 +10,11 @@ import Social from './components/Social';
 ReactDOM.render(
 <Router>
   <div className='wrapper'>
+    <Social />
     <Navigation />
     <div className='content-wrapper'>
       <App />
     </div>
-    <Social />
   </div>
 </Router>
 , document.getElementById('root'));

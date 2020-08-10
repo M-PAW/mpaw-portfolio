@@ -1,0 +1,9 @@
+
+
+.Nav-Container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    width: 100%;
+}

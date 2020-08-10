@@ -1,0 +1,23 @@
+
+.education-container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.education-container h3 {
+    font-size: 1.6rem;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.education-container h5 {
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-indent: 0.8rem;
+}
+
+.education-container p {
+    text-indent: 2.25rem;
+}

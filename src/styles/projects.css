@@ -13,6 +13,11 @@
     margin-bottom: -20px;
 }
 
+.projects-container h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
 .projects-container a {
     font-size: 1.1rem;
     margin-left: auto;

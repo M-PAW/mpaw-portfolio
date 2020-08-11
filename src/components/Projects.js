@@ -5,6 +5,7 @@ import '../styles/projects.css';
 const Projects = () => {
     return (
         <div className="projects-container">
+            <h2>Projects</h2>
             <div>
                 <h3>Conway's Game of Life</h3>
                 (<a href={"https://friendly-wozniak-c97571.netlify.app/"} rel={"_blank"}>Live</a>)

@@ -11,20 +11,23 @@
     max-width: 80%;
     /*min-width: 70%; */
     display: flex;
-    margin-left: 10%;
+    margin-left: 8%;
     margin-right: 20%;
 }
 
 .home-container h1 {
-
+    padding-left: -2%;
     font-size: 5vw;
     text-align: center;
+    margin: 0 0 10px 0;
+
 }
 
 .home-container h2 {
     text-align: center;
     font-size: 4vw;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
+    line-height: 0.9;
 }
 
 .home-container p {

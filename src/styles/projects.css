@@ -6,7 +6,7 @@
     align-items: flex-start;
     flex-wrap: wrap;
     width: 90%;
-    padding-left: 20vw;
+    padding-left: 10%;
     position: relative;
     text-align: center;
     margin-left: 3%;
@@ -23,7 +23,7 @@
 .projects-container a {
     font-size: 1.1rem;
     margin-left: auto;
-    line-height: 1.35;
+    line-height: 1.15;
 }
 
 .projects-container div {
@@ -39,15 +39,16 @@
     margin: 0;
     padding: 0;
     padding-bottom: 5px;
-    line-height: 1.35;
+    line-height: 1.25;
 }
 
 .projects-container .project-desc {
     font-size: 0.9rem;
 }
 
-h5 {
+.projects-container h5 {
     font-weight: bold;
+    line-height: 1.05;
 }
 
 .stack {

@@ -16,7 +16,8 @@
 .projects-container h2 {
     text-align: center;
     text-decoration: underline;
-    margin-bottom: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 10px;
 }
 
 .projects-container a {

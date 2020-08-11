@@ -18,8 +18,8 @@ const Home = () => {
             </div>
             <div>
               <p>
-                <span classNanme="indent">A</span> Full-Stack Software Developer and graduate of Lambda School 
-                currently based in Southern California. My hobbies include working on code challenges, working through courses on platforms such as Udemy, and working on personal projects.
+                <span classNanme="indent">A</span> Full-Stack Software Developer and graduate of Lambda School. 
+                My hobbies include working on code challenges, working through courses on platforms such as Udemy, and working on personal projects.<br/>I'm currently based in Southern California, but open to relocation.
               </p>
             </div>
           </div>

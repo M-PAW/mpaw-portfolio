@@ -19,7 +19,7 @@ const Navigation = () => {
           <Link to='/Projects'>Projects</Link>
         </div>
         {/* <div>
-          <Link to='/Contact'>Contact</Link>
+          <a href='/Contact'>Contact</Link>
         </div> */}
       </div>
     </div>

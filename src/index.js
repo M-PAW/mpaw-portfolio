@@ -10,6 +10,9 @@ import Social from './components/Social';
 ReactDOM.render(
 <Router>
   <div className='wrapper'>
+    <div className="footer">
+      <p>Copyright &copy; 2020 Michael Walter</p>
+    </div>
     <Social />
     <Navigation />
     <div className='content-wrapper'>

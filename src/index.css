@@ -39,3 +39,9 @@ body {
   padding: 20px 20px 0 20px;
 }
 
+.footer {
+  width: 100%;
+  text-align: center;
+  line-height: 0.9;
+}
+

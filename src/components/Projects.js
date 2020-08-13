@@ -50,7 +50,7 @@ const Projects = () => {
                     </Paper>
                 </Grid>
 
-                <Grid item xs={12} sm={12} style={{marginBottom: "25px"}}>
+                <Grid item xs={12} sm={12} style={{marginBottom: "60px"}}>
                     <Paper className={classes.paper}  elevation={0}>
                         <h5>MyDish </h5>
                     (<a href={"https://github.com/M-PAW-LAMBDA-REVIEW/mydish-be"} rel={"_blank"}>Github</a>)

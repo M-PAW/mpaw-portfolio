@@ -3,6 +3,7 @@ import './App.css';
 import Projects from './components/Projects';
 import Education from './components/Education';
 import Home from './components/Home';
+import Skills from './components/Skills';
 //import Contact from './components/Contact';
 
 import { Route } from 'react-router-dom';
@@ -28,6 +29,10 @@ const App = () => {
 
             <Route path="/Projects">
                 <Projects />
+            </Route>
+
+            <Route path="/Skills">
+                <Skills />
             </Route>
         
         </div>

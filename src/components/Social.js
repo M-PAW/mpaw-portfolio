@@ -15,9 +15,12 @@ const Social = () => {
                 </div>
                 <div>
                     <SocialIcon url="mailto:Michael_Patricl.Walter@outlook.com" />
-                </div>     
+                </div>
+                <div className="r-button">
+                    <p><strong>Resume</strong></p>
+                </div>      
             </div>
-            <p>Copyright&copy; Michael Walter</p>
+            <p>Copyright&copy; Michael Walter 2020</p>
         </div>
     )
 }

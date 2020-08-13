@@ -18,9 +18,9 @@ const Navigation = () => {
         <div>
           <Link to='/Projects'>Projects</Link>
         </div>
-        {/* <div>
-          <a href='/Contact'>Contact</Link>
-        </div> */}
+        <div>
+          <Link href='/Skills'>Skills</Link>
+        </div> 
       </div>
     </div>
   );

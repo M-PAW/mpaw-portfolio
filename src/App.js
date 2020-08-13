@@ -5,9 +5,9 @@ import Education from './components/Education';
 import Home from './components/Home';
 import Skills from './components/Skills';
 //import Contact from './components/Contact';
-import { Switch } from 'react-router-dom';
+// import { Switch } from 'react-router-dom';
 
-import { Route } from 'react-router-dom';
+import { Route, Switch } from 'react-router';
 
 const App = () => {
     return (

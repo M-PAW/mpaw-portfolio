@@ -14,7 +14,7 @@ const Social = () => {
                     <SocialIcon url="https://github.com/M-PAW" />
                 </div>
                 <div>
-                    <SocialIcon url="mailto:Michael_Patricl.Walter@outlook.com" />
+                    <SocialIcon url="mailto:Michael_Patrick.Walter@outlook.com" />
                 </div>
                 <div className="r-button">
                     <p><strong>Resume</strong></p>

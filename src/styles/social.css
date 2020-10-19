@@ -1,0 +1,34 @@
+
+.social-container {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.social-container div {
+    padding: 0 8px 4px 8px;
+}
+
+p {
+    text-align: center;
+}
+
+.social-container .r-button {
+    background-color: gray;
+    color: white;
+    border-radius: 90px;
+    padding: 0 7px 0 7px;
+    font-size: 7pt;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 0;
+    height: 50px;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.social-container .r-button p {
+    margin-top: 16px;
+}
